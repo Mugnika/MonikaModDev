@@ -1,4 +1,4 @@
-init -1 python:
+init -2 python:
     import store.mas_affection as mas_aff
 label introduction:
     if mas_isMonikaBirthday():
